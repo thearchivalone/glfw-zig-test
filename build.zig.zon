@@ -7,6 +7,10 @@
             .url = "https://github.com/thearchivalone/glfw.zig/archive/refs/heads/test-wayland.zip",
             .hash = "glfw_zig-1.0.0-NrvYozNAGgAN5jUX-TfXX_RV1ECriWInCwO8Phdn_0uo",
         },
+        .glfw = .{
+            .url = "git+https://github.com/allyourcodebase/glfw.git#74b53d74a79f66af4e0c620dd37a38796f015770",
+            .hash = "glfw-0.0.0-R5AeUroIGgByZTBiH9I-eE2y7IQ5H3Vmqi9_67OFLOZ2",
+        },
     },
     .paths = .{""},
     .fingerprint = 0xc04b4083197b29d3,
