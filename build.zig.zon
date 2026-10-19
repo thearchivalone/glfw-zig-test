@@ -1,0 +1,13 @@
+.{
+    .minimum_zig_version = "0.17.0",
+    .name = .TestGLFW,
+    .version = "0.17.0",
+    .dependencies = .{
+        .glfw_zig = .{
+            .url = "https://github.com/thearchivalone/glfw.zig/archive/refs/heads/test-wayland.zip",
+            .hash = "glfw_zig-1.0.0-NrvYozNAGgAN5jUX-TfXX_RV1ECriWInCwO8Phdn_0uo",
+        },
+    },
+    .paths = .{""},
+    .fingerprint = 0xc04b4083197b29d3,
+}
